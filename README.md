@@ -10,4 +10,4 @@ This is a remake of Naticord but in WinUI 3 and way better. I made this cause
 
 This is currently only supported on Windows 11. I plan to support Windows 10 soon.
 # Preview
-![Micacord_b1](https://github.com/user-attachments/assets/788408a6-feb2-41cd-af07-977ebf061a93)
+![ss](https://github.com/user-attachments/assets/828b9a39-5e38-4fbd-8530-e0e1174bcc62)
