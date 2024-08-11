@@ -1,0 +1,12 @@
+<ContentDialog
+    x:Class="Micacord.Views.AddServerDialog"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Add Server"
+    PrimaryButtonText="Add"
+    SecondaryButtonText="Cancel">
+
+    <StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+        <TextBox PlaceholderText="Server invite"></TextBox>
+    </StackPanel>
+</ContentDialog>
