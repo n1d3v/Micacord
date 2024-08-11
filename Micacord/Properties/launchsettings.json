@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Micacord (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Micacord (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
